@@ -12,8 +12,8 @@ I'm a **Student Developer**[span_1](start_span)[span_1](end_span) based in South
 * *[Add another goal or interest here]*
 
 ### 📫 How to reach me
-* **Email:** molleradrian@gmail.com[span_6](start_span)[span_6](end_span)
-* **Website:** [aetheriumnexus.store](http://aetheriumnexus.store)[span_7](start_span)[span_7](end_span)
+* **Email:** molleradrian@gmail.com
+* **Website:** [aetheriumnexus.store](http://aetheriumnexus.store)
 
 ---
 ⭐️ *Feel free to check out my pinned repositories below!*
